@@ -62,7 +62,7 @@ index_html = r'''<!DOCTYPE html>
 
       <div class="carousel-item active">
         <div class="hero-slide">
-          <img src="assets/images/h1.png" class="hero-bg" alt="Profile">
+          <img src="assets/images/h1.webp" class="hero-bg" alt="Profile">
           <div class="hero-overlay"></div>
 
           <div class="container hero-content">
@@ -99,7 +99,7 @@ index_html = r'''<!DOCTYPE html>
 
       <div class="carousel-item">
         <div class="hero-slide">
-          <img src="assets/images/h2.png" class="hero-bg" alt="Team Work">
+          <img src="assets/images/h2.webp" class="hero-bg" alt="Team Work">
           <div class="hero-overlay"></div>
 
           <div class="container hero-content">
@@ -204,7 +204,7 @@ index_html = r'''<!DOCTYPE html>
       <div class="col-lg-4 col-md-6">
         <a href="apps/lms.html" class="project-card">
           <div class="project-img">
-            <img src="assets/images/h1.png" alt="LMS">
+            <img src="assets/images/h1.webp" alt="LMS">
           </div>
           <div class="project-content">
             <span class="project-tag" data-ar="تطبيق جوال" data-en="Mobile App">تطبيق جوال</span>
@@ -223,7 +223,7 @@ index_html = r'''<!DOCTYPE html>
       <div class="col-lg-4 col-md-6">
         <a href="apps/smart-exams.html" class="project-card">
           <div class="project-img">
-            <img src="assets/images/h2.png" alt="Smart Exams">
+            <img src="assets/images/h2.webp" alt="Smart Exams">
           </div>
           <div class="project-content">
             <span class="project-tag" data-ar="ويب + جوال" data-en="Web + Mobile">ويب + جوال</span>
@@ -242,7 +242,7 @@ index_html = r'''<!DOCTYPE html>
       <div class="col-lg-4 col-md-6">
         <a href="apps/quran.html" class="project-card">
           <div class="project-img">
-            <img src="assets/images/h2.png" alt="Quran">
+            <img src="assets/images/h2.webp" alt="Quran">
           </div>
           <div class="project-content">
             <span class="project-tag" data-ar="ويب + جوال" data-en="Web + Mobile">ويب + جوال</span>
@@ -882,7 +882,7 @@ pages = {
         "LMS Educational Management Application",
         "تطبيق جوال لإدارة خدمات الطلاب التعليمية، ويعرض الجداول الدراسية وجداول الاختبارات والنتائج والإشعارات بطريقة سهلة واحترافية.",
         "A mobile application for managing student educational services, including schedules, exam timetables, results, and notifications in a professional user experience.",
-        "h1.png",
+        "h1.webp",
         [
             "عرض الجداول الدراسية للطلاب",
             "عرض جداول الاختبارات",
@@ -903,7 +903,7 @@ pages = {
         "Smart Exams System",
         "منصة ويب وتطبيق جوال لإدارة الاختبارات إلكترونياً، وإنشاء الاختبارات باستخدام الذكاء الاصطناعي وإدارة بنك الأسئلة والتصحيح.",
         "A web and mobile platform for electronic exam management, AI-based exam generation, question bank management, and auto-correction.",
-        "h2.png",
+        "h2.webp",
         [
             "إنشاء الاختبارات باستخدام الذكاء الاصطناعي",
             "رفع وإدارة بنك الأسئلة",
@@ -926,7 +926,7 @@ pages = {
         "Quran Memorization Circles Management",
         "منصة ويب وتطبيق جوال لإدارة حلقات التحفيظ، تسجيل الطلاب، تقييم الحفظ والمراجعة، وتسجيل الحضور والتقارير اليومية.",
         "A web and mobile platform for managing Quran circles, students, attendance, memorization evaluation, revision, and daily reports.",
-        "h2.png",
+        "h2.webp",
         [
             "تسجيل الطلاب وإدارة بياناتهم",
             "تقييم الحفظ والمراجعة",

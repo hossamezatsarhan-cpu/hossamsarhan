@@ -36,7 +36,7 @@
           </div>
           <div class="col-lg-7">
             <figure class="pro-mockup-frame">
-              <img src="../assets/images/lms-screens.png" alt="تطبيق LMS لإدارة العملية التعليمية" class="img-fluid">
+              <img src="../assets/images/lms-screens.webp" alt="تطبيق LMS لإدارة العملية التعليمية" class="img-fluid">
             </figure>
           </div>
         </div>
@@ -120,7 +120,7 @@
           <h2 data-ar="تصميم عربي احترافي يعكس الخدمات الفعلية" data-en="Professional Arabic UI Reflecting Real Services">تصميم عربي احترافي يعكس الخدمات الفعلية</h2>
         </div>
         <figure class="pro-screens-showcase mt-5">
-          <img src="../assets/images/lms-screens.png" alt="واجهات تطبيق LMS لإدارة العملية التعليمية" class="img-fluid">
+          <img src="../assets/images/lms-screens.webp" alt="واجهات تطبيق LMS لإدارة العملية التعليمية" class="img-fluid">
         </figure>
       </div>
     </section>
